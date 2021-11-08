@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Arturo Cazares</h1>
-<h3 align="center">A passionate frontend developer searching for a meaning in life, or responses on how to make certain parts of a code</h3>
+<h3 align="center">A passionate frontend developer searching for a meaning in life, or responses on how to resolve problems in the code</h3>
 
 - 🔭 I’m currently working on [chat-server](https://github.com/konakun/chat-server)
 
