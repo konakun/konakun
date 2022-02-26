@@ -9,8 +9,6 @@
 
 - 📫 How to reach me **ArturoCazaresP@outlook.com**
 
-- ⚡ Fun fact **I'm in elo-hell in most ranked games**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/konakun" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="konakun" height="30" width="40" /></a>
