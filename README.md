@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [chat-server](https://github.com/konakun/chat-server)
 
-- 🌱 I’m currently learning **Kotlin, Android, AWS, Google Cloud**
+- 🌱 I’m currently learning **Kotlin, Python, FastApi, Flask**
 
 - 💬 Ask me about **Anything**
 
