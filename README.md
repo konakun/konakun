@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Arturo Cazares</h1>
 <h3 align="center">A passionate backend developer searching for a meaning in life, or responses on how to resolve problems.</h3>
 
-- 🔭 I’m currently working on [chat-server](https://github.com/konakun/chat-server)
+- 🔭 I’m currently working on [Arduino Xbox EEPROM Reader](https://github.com/konakun/ArduinoXboxEEPROMReader)
 
-- 🌱 I’m currently learning **Kotlin, Python, FastApi, Flask**
+- 🌱 I’m currently learning **Java, Python, FastApi, Flask**
 
 - 💬 Ask me about **Anything**
 
